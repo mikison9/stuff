@@ -8,3 +8,4 @@
 
 - [dstp - website test vec](https://github.com/ycd/dstp)
 - [lazydocker - docker tui](https://github.com/jesseduffield/lazydocker)
+- [glances](https://github.com/nicolargo/glances)
